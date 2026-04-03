@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#141824"/>
+      <stop offset="100%" stop-color="#090b12"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#d8b57a"/>
+      <stop offset="100%" stop-color="#8ec5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="900" rx="44" fill="url(#bg)"/>
+  <circle cx="350" cy="280" r="120" fill="#1d2332"/>
+  <rect x="180" y="430" width="340" height="250" rx="120" fill="#171d2a"/>
+  <rect x="70" y="70" width="560" height="760" rx="38" fill="none" stroke="url(#glow)" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="350" y="785" text-anchor="middle" fill="#f2ede4" font-size="42" font-family="Arial, sans-serif">DMITRY</text>
+  <text x="350" y="835" text-anchor="middle" fill="#9ea7ba" font-size="24" font-family="Arial, sans-serif">add public/profile.jpg</text>
+</svg>
